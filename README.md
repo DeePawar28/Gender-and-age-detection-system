@@ -1,4 +1,4 @@
-# Gender-and-age-detection-system
+# Gender and age detection system
 
 ## Project Description:
 
